@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "uz.texnoset.kamera",
+      "sha256_cert_fingerprints": [
+        "F9:F2:C4:ED:41:E2:E0:A0:42:BA:20:40:AD:26:74:35:8F:C0:D3:8F:F6:65:87:33:0C:1C:5C:51:D7:BA:2E:4A"
+      ]
+    }
+  }
+]
